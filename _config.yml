@@ -1,17 +1,14 @@
 # Site/SEO settings
-email: 
+email: qwerty3078@naver.com
 permalink: /:year/:month/:day/:title/
-google_analytics: 
 
-title: Trophy
+title: 정재윤
 description: 
 url: "https://jung-jae-yoon.github.io/"
 baseurl: ""
-twitter_username: 
-default_img: 
 
 # Profile settings
-name: 
+name: 정재윤
 profile_img: 
 profile: 
 social:
