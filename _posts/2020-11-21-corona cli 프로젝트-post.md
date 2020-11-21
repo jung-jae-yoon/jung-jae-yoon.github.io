@@ -2,8 +2,6 @@
 layout: post
 title: "Corona-cli 프로젝트"
 date: 2020-11-21
-categories:
-  - Juice
 ---
 
 <li>프로젝트 선정 과정</li>
