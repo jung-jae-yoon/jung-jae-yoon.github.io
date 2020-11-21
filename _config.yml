@@ -2,7 +2,7 @@
 email: qwerty3078@naver.com
 permalink: /:year/:month/:day/:title/
 
-title: 정재윤
+title: 성균관대학교 정재윤
 description: 
 url: "https://jung-jae-yoon.github.io/"
 baseurl: ""
@@ -12,7 +12,7 @@ name: 정재윤
 profile_img: 
 profile: 
 social:
-  github: 
+  github: jung-jae-yoon
 
 # Build settings
 markdown: kramdown
