@@ -11,7 +11,8 @@ baseurl: ""
 name: 정재윤
 profile_img: 
 profile: 
-github: jung-jae-yoon
+social:
+  github: jung-jae-yoon
 
 # Build settings
 markdown: kramdown
