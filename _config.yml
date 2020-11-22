@@ -12,7 +12,7 @@ name: 정재윤
 profile_img: 
 profile: 
 social:
-  github: jung-jae-yoon
+  github: https://github.com/jung-jae-yoon
 
 # Build settings
 markdown: kramdown
